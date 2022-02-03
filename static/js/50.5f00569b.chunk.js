@@ -1,0 +1,2 @@
+(this["webpackJsonppancake-frontend"]=this["webpackJsonppancake-frontend"]||[]).push([[50],{1668:function(c,e,t){"use strict";t.r(e);t(0);var n=t(2),s=t(16),r=t(282),a=t(395),j=t(1178),b=t(1);e.default=function(){var c=Object(s.b)().t;return Object(b.jsxs)(b.Fragment,{children:[Object(b.jsx)(a.a,{children:Object(b.jsx)(n.cb,{as:"h1",scale:"xxl",color:"secondary",children:c("Activity")})}),Object(b.jsx)(r.b,{children:Object(b.jsx)(n.y,{children:Object(b.jsx)(j.a,{})})})]})}}}]);
+//# sourceMappingURL=50.5f00569b.chunk.js.map
